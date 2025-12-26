@@ -33,12 +33,6 @@ L'étiquette est move
 
 ### **Objectif**
 
-Nous pouvons représenter cette grille dans un vecteur en associant
-simplement un numéro de 0 à 8 pour chacune des cases. De plus, nous pouvons associer une
-case vide (0), le X (1) et le O (-1) à des chiffres également.
-En utilisant cette représentation, nous pouvons créer un réseau de neurones prenant l’état (-1, 0,1) de chacune des cases en entrées et prédisant la case avec le meilleur prochain mouvement. Il
-s’agit d’un problème de classification multi-classe.
+confert instruction du projet. 
 
-Donc les Cell_? représentes les cellules ou les case de notre grille de jeu
 
-L'étiquette est move
